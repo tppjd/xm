@@ -55,7 +55,7 @@ if "XMLY_SPEED_COOKIE" in os.environ:
 ###################################################
 # 可选项
 # 自定义设备命名,非必须 ;devices=["iPhone7P","huawei"];与cookiesList对应
-devices = []
+devices = [iPhone XS]
 notify_time = 19                            # 通知时间,24小时制,默认19
 XMLY_ACCUMULATE_TIME = 1                    # 希望刷时长的,此处置1,默认打开;关闭置0
 UserAgent = "ting_v2.1.8_c5(CFNetwork, iOS 14.4, iPhone11,2)"
